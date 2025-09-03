@@ -21,7 +21,7 @@ Un script de **Bash** simple pero potente para la instalación rápida de los co
 2.  **Navegar al directorio:** Entra en el directorio del proyecto.
 
     ```bash
-    cd docker_install/
+    cd docker-install/
     ```
 
 3.  **Dar permisos de ejecución:** Antes de ejecutar el script, debes darle permisos de ejecución (`+x`) para que el sistema pueda correrlo.
